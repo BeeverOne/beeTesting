@@ -1,0 +1,23 @@
+{
+  "name": "o1-code-review-portfolio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^5.4.11",
+    "vite-plugin-restart": "^0.4.1"
+  },
+  "dependencies": {
+    "gsap": "3.12",
+    "three": "^0.166.1"
+  },
+  "description": "## Setup Download [Node.js](https://nodejs.org/en/download/). Run this followed commands:",
+  "main": "vite.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
